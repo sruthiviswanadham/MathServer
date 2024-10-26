@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/cd9e68d0-08db-4d27-94b7-68da74c29298)# Ex.05 Design a Website for Server Side Processing
-## Date:
+##  Ex.05 Design a Website for Server Side Processing
+## Date: 26-10-2024
 
 ## AIM:
 To design a website to find surface area of a Right Cylinder in server side.
